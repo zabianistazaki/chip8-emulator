@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.out
+chip8
+test_core
